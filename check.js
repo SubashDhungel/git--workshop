@@ -1,1 +1,2 @@
-str = "My name is nirajan"
+console.log("check.js");
+
